@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onlinelib.github.io" resolutions="1x" timestamp="1521567376054">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onlinelib.github.io" resolutions="1x" timestamp="1521570268401">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="239422931" ref="index"/>
-    <file name="index.css" crc="4090275073" ref="index"/>
+    <file name="index.css" crc="3803752106" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,5 +19,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="32182214" seo="true" mt="1521567351769" redirect="true"/>
+  <file name="index.html" crc="4277024401" seo="true" mt="1521570252851" redirect="true"/>
 </manifest>
